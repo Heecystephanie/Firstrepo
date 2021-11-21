@@ -1,0 +1,147 @@
+body{
+    /* padding: 0px; */
+    background-color: rgb(250, 252, 253);
+    font-family: sans-serif;
+}
+
+
+#img-txt{
+    margin: 10px 5px;
+    font-size: 13px;
+    color: black;
+    text-decoration: none;
+}
+
+/* #img{
+    margin: 20px;
+    font-size: 18px;
+    text-decoration: none;
+
+} */
+
+.nav{
+    display: flex;
+    margin-left: 88%;
+    margin-top: 10px;
+    /* background-color: blanchedalmond; */
+    /* float: right; */
+    /* margin: 0px 0px 0px 70px; */
+   
+}
+
+.link{
+    margin-left: 555px;
+    font-size: 13px;
+}
+
+
+
+
+
+.google{
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    margin-left: 42%;
+}
+
+#letterg{
+    color: rgb(0, 140, 255);
+    font-weight: 600;
+    
+}
+
+#lettero{
+    color: red;
+    font-weight: 600;
+}
+
+#letteros{
+    color: rgb(255, 230, 0);
+    font-weight: 600;
+}
+
+#lettergs{
+    color: rgb(0, 140, 255);
+    font-weight: 600;
+
+}
+
+#letterl{
+    color: yellowgreen;
+    font-weight: 600;
+}
+
+#lettere{
+    color: red;
+    font-weight: 600;
+}
+
+.search-bx{
+    height: 43px;
+    width: 550px;
+    margin-left: 33%;
+    border: 1px solid rgb(163, 161, 161);
+    border-radius: 25px;
+    box-shadow: rgb(83, 82, 82) 2px 2px 2px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+
+.text{
+    display: inline;
+    width: 110px;
+    height: 37px;
+    background-color: rgb(238, 232, 232);
+    border: none;
+    color: rgb(24, 24, 24);
+    font-size: 12px;]
+    margin-right: 5px;
+
+}
+
+.txt-area{
+    margin-left: 45%;
+}
+
+a{
+    text-decoration: none;
+}
+
+#img{
+    width: 35px;
+    height: 35px;
+}
+
+.icons1{
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+    height: 70px;
+    margin-left: 27%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.icons2{
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+    height: 70px;
+    margin-left: 27%;
+}
+
+
+
+#pic{
+    width: 70px;
+    height:auto;
+    border-radius: 100%;
+    position:relative;
+    position: fixed;
+    bottom: 500px;
+}
